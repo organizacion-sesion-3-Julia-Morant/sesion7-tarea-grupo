@@ -1,4 +1,4 @@
-# sesion7-tarea-individual
+# sesion7-tarea-grupo
 Ejercicios de base de datos (Access, Base, etc.)
 
 Los ejercicios para bases de datos de escritorio (Access, Base, etc...) hasta ahora están en este directorio:
